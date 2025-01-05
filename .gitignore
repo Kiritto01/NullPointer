@@ -1,0 +1,80 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# IntelliJ IDEA specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Java specific files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Compiled Java binaries
+/bin/
+/out/
+/target/
+
+# Build system files (Maven, Gradle, etc.)
+.mvn/
+.gradle/
+build/
+
+# Dependencies
+/.idea/libraries/
+*.dll
+*.so
+*.dylib
+
+# IDE specific files
+Thumbs.db
+
+# Eclipse/NetBeans/VSCode project files (if applicable)
+.settings/
+.nb-gradle/
+
+
+# Generated files (like Javadoc or Lombok)
+javadoc/
+generated/
+
+# Application specific
+*.env
